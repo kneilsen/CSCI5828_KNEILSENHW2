@@ -40,3 +40,9 @@
 29. git add README.md (on bug-fix-experimental branch) <br>
 
 30. git commit -m "Commit 7" (on bug-fix-experimental branch) <br> 
+
+31. EDIT README.md <br>
+
+32. git add README.md (on bug-fix-experimental branch) <br>
+
+33. git commit -m "Commit 8" (on bug-fix-experimental branch) <br>
