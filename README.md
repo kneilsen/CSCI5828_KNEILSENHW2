@@ -89,3 +89,9 @@
 
 46. git commit -m "Commit 11" (on bug-fix branch) <br>
 
+47. EDIT README.md <br>
+
+48. git add README.md (on bug-fix branch) <br>
+
+49. git commit -m "Commit 12" (on bug-fix branch) <br>
+
