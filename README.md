@@ -16,3 +16,9 @@
 5. git add README.md <br>
 
 6. git commit -m "Commit 1" <br>
+
+7. EDIT README.md <br>
+
+8. git add README.md <br>
+
+9. git commit -m "Commit 2" <br>
