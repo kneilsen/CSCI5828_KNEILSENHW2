@@ -22,3 +22,11 @@
 8. git add README.md <br>
 
 9. git commit -m "Commit 2" <br>
+
+37. git checkout master <br>
+
+38. EDIT README.md <br>
+
+39. git add README.md (on master branch) <br>
+
+40. git commit -m "Commit 10" (on master branch) <br>
