@@ -22,3 +22,9 @@
 13. git add README.md (on bug-fix branch) <br>
 
 14. git commit -m "Commit 3" (on bug-fix branch) <br>
+
+15. EDIT README.md <br>
+
+16. git add README.md (on bug-fix branch) <br>
+
+17. git commit -m "Commit 4" (on bug-fix branch) <br>
