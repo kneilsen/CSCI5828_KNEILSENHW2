@@ -112,3 +112,9 @@
 53. git add README.md (on master branch) <br>
 
 54. git commit -m "Commit 13" (on master branch) <br>
+
+55. EDIT README.md <br>
+
+56. git add README.md Homework2Image.png (on master branch) <br>
+
+57. git commit -m "Commit 14" (on master branch) <br>
