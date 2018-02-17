@@ -7,8 +7,12 @@
  
 1. Created README.md file <br> 
 
-2. git init
+2. git init <br>
 
-3. git add README.md
+3. git add README.md <br>
 
-4. git commit -m "Commit 0"
+4. git commit -m "Commit 0" <br>
+
+5. git add README.md <br>
+
+6. git commit -m "Commit 1" <br>
