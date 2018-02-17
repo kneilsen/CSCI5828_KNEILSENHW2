@@ -28,3 +28,15 @@
 16. git add README.md (on bug-fix branch) <br>
 
 17. git commit -m "Commit 4" (on bug-fix branch) <br>
+
+25. git log <br>
+
+26. git checkout c056fd2f642e2e68f14e30b30455e9ad30c99dc7 <br>
+
+27. git checkout -b bug-fix-experimental <br>
+
+28. EDIT README.md <br>
+
+29. git add README.md (on bug-fix-experimental branch) <br>
+
+30. git commit -m "Commit 7" (on bug-fix-experimental branch) <br> 
