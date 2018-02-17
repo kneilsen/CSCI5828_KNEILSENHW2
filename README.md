@@ -13,6 +13,16 @@
 
 4. git commit -m "Commit 0" <br>
 
+5. git add README.md <br>
+
+6. git commit -m "Commit 1" <br>
+
+7. EDIT README.md <br>
+
+8. git add README.md <br>
+
+9. git commit -m "Commit 2" <br>
+
 10. git checkout 728072f92546bf0fc260e6cd03dd649bd9d56f75 <br>
 
 11. git checkout -b bug-fix <br>
@@ -28,3 +38,13 @@
 16. git add README.md (on bug-fix branch) <br>
 
 17. git commit -m "Commit 4" (on bug-fix branch) <br>
+
+18. git checkout bug-fix <br>
+
+19. git merge master <br>
+
+20. EDIT README.me <br>
+
+21. git add README.md (on bug-fix branch) <br>
+
+22. git commit -m "Commit 5" (on bug-fix branch) <br>
